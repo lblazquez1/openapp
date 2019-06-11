@@ -1,0 +1,8 @@
+.trayectoria h3{
+  color: #fff !important;
+}
+.trayectoria p{
+  color: #999 !important;
+}
+
+.s-portfolio__caption-hover--cc, .s-portfolio__img-effect{ background-color: red !important; }
